@@ -1,0 +1,16 @@
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.2, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6739130434782609 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6134751773049647 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 1e-06} test f1 0.6637554585152838 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 5, 'weight_decay': 0.0001} test f1 0.5683836589698046 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6451612903225806 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 1e-06} test f1 0.6472148541114058 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.659606656580938 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 1e-06} test f1 0.6684141546526867 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 5, 'weight_decay': 0.0001} test f1 0.6292466765140325 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6629370629370629 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 1e-06} test f1 0.6785225718194254 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 5, 'weight_decay': 0.0001} test f1 0.5570093457943925 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 5, 'weight_decay': 1e-06} test f1 0.6531250000000001 
+Fold 0 params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 128, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6571056062581485 
+1: params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6629370629370629 
+1: params {'BATCH_SIZE': 64, 'LR': 0.01, 'dropout': 0.4, 'embed_dim': 64, 'hidden_dim': 64, 'num_layers': 2, 'weight_decay': 0.0001} test f1 0.6629370629370629 
